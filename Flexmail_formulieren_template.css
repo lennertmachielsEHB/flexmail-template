@@ -33,7 +33,7 @@ body{
 /* *********** preview message  *********** */
 
 div#container-preview, div#container-error-required {
-    background-color: #fdd4d4;
+    background-color: red;
     border: 1px solid #cf3737;
     color: #000;
     font-size: 12px !important;
@@ -133,7 +133,7 @@ label {
 }
 
 .form-control {
-    background-color: #fff;
+    background-color: red;
     background-image: none;
     border: 1px solid #ccc;
     border-radius: 0px;
@@ -149,7 +149,7 @@ label {
 }
 
 .form-control[type="file"]{
-    background-color: #fff;
+    background-color: red;
     background-image: none;
     border: 1px solid #ccc;
     border-radius: 0px;
