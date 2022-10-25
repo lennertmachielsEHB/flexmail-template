@@ -1,11 +1,11 @@
 body{
-    background-color: white;
+    background-color: white!important;
     color: #3D3D3D ;
     font-family: 'Verdana';
 }
 
 div#container{
-    background-color: #dfeceb;
+    background-color: #dfeceb!important;
     border: none;
     margin: 10px auto 40px;
     padding: 10px;
@@ -13,4 +13,6 @@ div#container{
     line-height: 18px;
     display: block;
 }
-
+#container, #container-form, #container-form ul#form-questions li {
+    background-color: #dfeceb !important;
+}
