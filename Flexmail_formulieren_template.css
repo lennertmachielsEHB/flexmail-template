@@ -13,6 +13,6 @@ body{
     border-radius:0px;
     padding:40px;
 }
-#button-submit{
-    background-color: red;
+div#container-submit button#button-submit, div#container-submit #button-close, span.fileupload-new, span.fileupload-exists {
+    background-color: red !important;
 }
