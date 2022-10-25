@@ -3,12 +3,13 @@ body{
     padding:0px;
     font-family: 'Open Sans', sans-serif;
     font-weight:400;
+    background-color:red;
 }
 
 .container{
     width:480px;
     margin: 50px auto;
-    background-color:#FFFFFF;
+    background-color:red;
     border-radius:0px;
     padding:40px;
 }
