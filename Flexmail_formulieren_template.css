@@ -24,5 +24,10 @@ div#container-submit button#button-submit, div#container-submit #button-close, s
     font-family: Verdana;
     text-transform: uppercase;
     font-weight: bold;
-    border: 5px 0px 0px 0px solid #e30615;
+    border-left: 5px solid #e30615;
+    border-bottom: none!important;
+    border-top: none!important;
+    border-right: none!important;
+    border-radius: 0 !important;
+    padding: 8px 20px !important;
 }
