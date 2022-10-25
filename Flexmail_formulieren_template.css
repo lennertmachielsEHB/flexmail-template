@@ -16,3 +16,13 @@ div#container{
 #container, #container-form, #container-form ul#form-questions li {
     background-color: #dfeceb !important;
 }
+div#container-submit button#button-submit, div#container-submit #button-close, span.fileupload-new, span.fileupload-exists {
+    background-color: #ffffff;
+    background-image: none;
+    font-size: 11;
+    color: #e30615;
+    font-family: Verdana;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 5px 0px 0px 0px solid #e30615;
+}
