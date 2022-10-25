@@ -7,19 +7,14 @@ body{
 div#container{
     background-color: #dfeceb!important;
     border: none;
-    margin: 10px auto 40px;
-    padding: 10px;
-    width: 800px;
+    margin: 0px auto;
+    padding: 20px;
+    width: 100%;
     line-height: 18px;
     display: block;
 }
 #container, #container-form, #container-form ul#form-questions li {
     background-color: #dfeceb !important;
-}
-div#container {
-    margin: 0px auto !important;
-    padding: 20px !important;
-    width: 100% !important;
 }
 div#container-submit button#button-submit, div#container-submit #button-close, span.fileupload-new, span.fileupload-exists {
     background-color: #ffffff;
