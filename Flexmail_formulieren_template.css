@@ -51,7 +51,7 @@ div#container-submit button#button-submit, div#container-submit #button-close {
 #container-intro-text {
     background-color: #dfeceb !important;
     color: black !important;
-    font-size: 25px !important;
+    font-size: 37px !important;
     padding-bottom: 16.5px !important;
     background-image: url(https://www.erasmushogeschool.be/themes/custom/ehb/images/h2_underline.png) !important;
     background-repeat: no-repeat !important;
@@ -72,6 +72,7 @@ div#container div#container-submit button#button-submit{
     font-weight: 700;
     display: block;
     margin-bottom: 10px;
+    font-size: 16px;
 }
 #form-questions input{
     display: block;
