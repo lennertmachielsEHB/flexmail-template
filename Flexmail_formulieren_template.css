@@ -64,4 +64,10 @@ div#container div#container-submit button#button-submit{
     border-radius: 0!important;
     padding: 8px 20px !important;
 }
-
+#form-questions{
+    padding: 0;
+    color: black;
+}
+#form-questions label{
+    font-weight: 700;
+}
