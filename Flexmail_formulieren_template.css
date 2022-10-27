@@ -17,7 +17,7 @@ div#outer-container{
     margin-top: 40px !important;
     margin-bottom: 40px !important;
 }
-#container-intro-text{
+div#container #container-intro-text{
     background-color: #dfeceb!important;
 }
 #container, #container-form, #container-form ul#form-questions li {
