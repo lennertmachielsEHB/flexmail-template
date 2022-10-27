@@ -4,6 +4,7 @@ body{
     font-family: 'Verdana';
     padding-top: 40px;
     padding-bottom: 40px;
+    height: 100%;
 }
 
 div#container{
