@@ -37,6 +37,7 @@ div#container-submit button#button-submit, div#container-submit #button-close, s
     border-right: none!important;
     border-radius: 0 !important;
     padding: 8px 20px !important;
+    margin-top: 30px !important;
     -webkit-box-shadow: 5px 5px 0px 0px #c4c4c4 !important;
     -moz-box-shadow: 5px 5px 0px 0px #c4c4c4 !important;
     box-shadow: 5px 5px 0px 0px #c4c4c4 !important;
