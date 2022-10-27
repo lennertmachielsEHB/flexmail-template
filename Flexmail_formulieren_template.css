@@ -17,7 +17,7 @@ div#outer-container{
     margin-top: 40px !important;
     margin-bottom: 40px !important;
 }
-#container-intro-text, #container-submit-text {
+#container-intro-text{
     background-color: #dfeceb!important;
 }
 #container, #container-form, #container-form ul#form-questions li {
@@ -48,7 +48,7 @@ div#container-submit button#button-submit, div#container-submit #button-close {
     padding-right: 20px !important;
     border-radius: 0px !important;
 }
-#container-intro-text, #container-submit-text {
+#container-intro-text {
     background-color: #dfeceb !important;
     color: black !important;
     font-size: 25px !important;
