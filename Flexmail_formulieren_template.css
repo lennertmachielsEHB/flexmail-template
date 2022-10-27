@@ -53,6 +53,7 @@ div#container-submit button#button-submit, div#container-submit #button-close {
     color: black !important;
     font-size: 37px !important;
     padding-bottom: 16.5px !important;
+    margin-bottom: 30px;
     background-image: url(https://www.erasmushogeschool.be/themes/custom/ehb/images/h2_underline.png) !important;
     background-repeat: no-repeat !important;
     background-position: bottom left !important;
