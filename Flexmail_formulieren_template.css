@@ -14,7 +14,7 @@ div#container{
     display: block;
 }
 div#outer-container{
-    margin: 40px 0;
+    padding: 40px 0;
 }
 #container, #container-form, #container-form ul#form-questions li {
     background-color: #dfeceb !important;
