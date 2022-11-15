@@ -1,7 +1,7 @@
 body{
     background-color: #dfeceb!important;
     color: #3D3D3D ;
-    font-family: 'Verdana';
+    font-family: 'Verdana'!important;
 }
 tr td br {
   display: none;
