@@ -1,12 +1,23 @@
-body{
+
+/* Form labels */
+#flxml_frm > table > tbody > tr br{
+  display: none;
+}
+#flxml_frm > table > tbody > tr span{
+  width: 300px;
+  display: inline-block;
+}
+#flxml_frm > table > tbody > tr > td:nth-child(1) { ; }
+
+#flxml_frm > table > tbody > tr > td:nth-child(1) { 
     background-color: #dfeceb!important;
     color: #3D3D3D ;
     font-family: 'Verdana'!important;
 }
-tr td br {
-  display: none;
-}
-tr td span {
-  width: 300px;
-  display: inline-block;
-}
+
+/* Form input elements */
+#flxml_frm input[type="text"] { ; }
+
+/* Form submit button */
+#flxml_frm button[type="submit"] { ; }
+
