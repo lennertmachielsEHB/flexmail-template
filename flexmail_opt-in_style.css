@@ -1,4 +1,3 @@
-
 /* Form labels */
 #flxml_frm > table > tbody > tr br{
   display: none;
@@ -7,13 +6,14 @@
   width: 300px;
   display: inline-block;
 }
-#flxml_frm > table > tbody > tr > td:nth-child(1) { ; }
 
-#flxml_frm > table > tbody > tr > td:nth-child(1) { 
+#flxml_frm > table > tbody { 
     background-color: #dfeceb!important;
     color: #3D3D3D ;
     font-family: 'Verdana'!important;
 }
+
+#flxml_frm > table > tbody > tr > td:nth-child(1) { ; }
 
 /* Form input elements */
 #flxml_frm input[type="text"] { ; }
