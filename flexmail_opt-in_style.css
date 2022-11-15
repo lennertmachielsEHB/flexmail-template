@@ -1,9 +1,9 @@
-/* Form labels */
-#flxml_frm > table > tbody > tr br{
+
+#flxml_frm > table > tbody > tr td br{
   display: none;
 }
-#flxml_frm > table > tbody > tr span{
-  width: 300px;
+#flxml_frm > table > tbody > tr td span{
+  width: 50%;
   display: inline-block;
 }
 
@@ -12,12 +12,4 @@
     color: #3D3D3D ;
     font-family: 'Verdana'!important;
 }
-
-#flxml_frm > table > tbody > tr > td:nth-child(1) { ; }
-
-/* Form input elements */
-#flxml_frm input[type="text"] { ; }
-
-/* Form submit button */
-#flxml_frm button[type="submit"] { ; }
 
