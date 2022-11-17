@@ -1,13 +1,13 @@
 
-#flxml_frm > table > tbody > tr td br{
+#flxml_frm table tbody tr td br{
   display: none;
 }
-#flxml_frm > table > tbody > tr td span{
+#flxml_frm table tbody tr td span{
   width: 50%;
   display: inline-block;
 }
 
-#flxml_frm > table > tbody { 
+#flxml_frm table tbody { 
     background-color: #dfeceb!important;
     color: #3D3D3D ;
     font-family: 'Verdana'!important;
