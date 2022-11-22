@@ -1,3 +1,14 @@
+ #flxml_frm button[type="submit"] {
+    background: #ffffff;
+   border-color: #e30713 !important;
+       text-transform: uppercase;
+        border: 0 solid transparent;
+   color: #e30713;
+       border-left: 4px solid transparent;
+   /* -webkit-box-shadow: 5px 5px 0px 0px #c4c4c4; */
+        box-shadow: 5px 5px 0px 0px #c4c4c4;
+       border-radius: 0 !important;
+}
 #flxml_frm{
   background-color: red!important;
 }
